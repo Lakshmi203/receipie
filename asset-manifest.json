@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/receipie/static/css/main.be024c95.css",
+    "main.js": "/receipie/static/js/main.91e7e1f0.js",
+    "static/js/787.1f9126b1.chunk.js": "/receipie/static/js/787.1f9126b1.chunk.js",
+    "index.html": "/receipie/index.html",
+    "main.be024c95.css.map": "/receipie/static/css/main.be024c95.css.map",
+    "main.91e7e1f0.js.map": "/receipie/static/js/main.91e7e1f0.js.map",
+    "787.1f9126b1.chunk.js.map": "/receipie/static/js/787.1f9126b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be024c95.css",
+    "static/js/main.91e7e1f0.js"
+  ]
+}
