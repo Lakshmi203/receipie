@@ -82,7 +82,7 @@ function FilteredDishes(props) {
 
             <div className="special-dishes-list">
                     <ul className="flex flex-wrap gap">
-                        {/* {singledata} */}
+                        {singledata}
                         {filteredDishes.length !== 0 ? showTheseDishesNow : <div className='alert'><h4>Sorry no item found</h4><br /><h3>Try another dishes</h3></div> }
                     </ul>
 
